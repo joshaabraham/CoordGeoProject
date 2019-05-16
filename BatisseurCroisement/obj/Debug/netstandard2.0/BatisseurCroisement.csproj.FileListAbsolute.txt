@@ -1,0 +1,9 @@
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\bin\Debug\netstandard2.0\BatisseurCroisement.deps.json
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\bin\Debug\netstandard2.0\BatisseurCroisement.dll
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\bin\Debug\netstandard2.0\BatisseurCroisement.pdb
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\obj\Debug\netstandard2.0\BatisseurCroisement.csprojAssemblyReference.cache
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\obj\Debug\netstandard2.0\BatisseurCroisement.csproj.CoreCompileInputs.cache
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\obj\Debug\netstandard2.0\BatisseurCroisement.AssemblyInfoInputs.cache
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\obj\Debug\netstandard2.0\BatisseurCroisement.AssemblyInfo.cs
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\obj\Debug\netstandard2.0\BatisseurCroisement.dll
+D:\c_sharp_projets\CreateSubCoords\CreateSubCoords\CreateSubCoords\BatisseurCroisement\obj\Debug\netstandard2.0\BatisseurCroisement.pdb
